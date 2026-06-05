@@ -1,7 +1,7 @@
 ### daily_report 1
 
-##TODAY IM start linux essentials 
-##Things I learned from the course today:
+## TODAY IM start linux essentials 
+## Things I learned from the course today:
 
 #Operating System Basics
 
@@ -11,7 +11,7 @@ The main job of the operating system kernel is to manage low-level hardware reso
 
 Linux itself is a kernel.
 
-#Five basic features of an operating system:
+# Five basic features of an operating system:
 
 - Command Line Interface (CLI)
 
@@ -25,7 +25,7 @@ Linux itself is a kernel.
 
 The most commonly used library in Linux is libc.
 
-#Why Linux is so popular:
+# Why Linux is so popular:
 
 - It is open source.
 
@@ -47,7 +47,7 @@ For example, if a Linux distribution releases a new version every two years, and
 
 According to the support policy, an older release is supported until the newer release becomes available. Longer update cycles are often better for businesses because they provide more stability.
 
-#Linux release stages:
+# Linux release stages:
 
 - Alpha: Early version with many bugs and issues.
 
@@ -55,13 +55,13 @@ According to the support policy, an older release is supported until the newer r
 
 - Final: Stable version ready for public use.
 
-##Richard Stallman is the founder of the GNU movement.
+## Richard Stallman is the founder of the GNU movement.
 
 Open source means that the source code is available for everyone, so people can learn from it, modify it, and redistribute it.
 
 The Linux kernel is open source, while traditional Unix systems are mostly closed source.
 
-#Common Linux desktop environments:
+# Common Linux desktop environments:
 
 - KDE
 
@@ -73,7 +73,7 @@ and others.
 
 Most software that runs on Unix can also run on Linux.
 
-#Windows vs Linux
+# Windows vs Linux
 
 - Windows requires a paid license, while Linux is completely free.
 
@@ -85,7 +85,7 @@ Most software that runs on Unix can also run on Linux.
 
 - Components of a Linux Distribution
 
-#Building a Linux distribution usually includes:
+# Building a Linux distribution usually includes:
 
 - Linux kernel
 
